@@ -1,2 +1,2 @@
 # atividade6
-Cadastro usando Room
+Cadastro usando Room.
